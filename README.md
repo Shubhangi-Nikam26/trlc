@@ -67,8 +67,3 @@ The Python implementation can be used for several purposes:
 * [PyVCG](https://pypi.org/project/PyVCG)
 * [PyPI CVC5](https://pypi.org/project/cvc5)
   (required when using the `--verify` option)
-
-Optional dependency (not installed automatically):
-* [Binary CVC5](https://github.com/cvc5/cvc5/releases/tag/cvc5-1.3.2)
-  (An alternative to PyPI CVC5, make sure to rename the binary to
-  `cvc5` and put it on your PATH).
